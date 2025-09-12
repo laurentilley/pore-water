@@ -1,0 +1,8 @@
+.Rproj.user/
+outputs/
+inputs/
+raw-data/
+.Rhistory
+*.docx
+.DS_Store
+*.pptx
